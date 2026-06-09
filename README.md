@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0b1220,0f172a,29292b&height=140&section=header)
 
-<h3 align="center">Freelance Web Developer & Digital Entrepreneur</h3>
-<p align="center">Lagos, Nigeria 🇳🇬 — Founder @ <strong>Cliverex</strong></p>
-<p align="center"><em>"Visibility is currency. We make your brand wealthy."</em></p>
+<h3 align="center">Web Developer & Digital Entrepreneur</h3>
+<p align="center">Founder</p>
+<p align="center"><em>"idea.Clarity.Execution."</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&width=760&height=60&lines=Freelance%20Web%20Developer%20%F0%9F%92%BB;Digital%20Entrepreneur%20%F0%9F%9A%80;Full-Stack%20Engineer%20%E2%9A%A1;Building%20from%20Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC;Founder%20%40%20Cliverex%20%F0%9F%8F%A2" alt="Typing SVG" />
