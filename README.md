@@ -1,62 +1,43 @@
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0b1220,0f172a,29292b&height=140&section=header)
 
+<h3 align="center">Freelance Web Developer & Digital Entrepreneur</h3>
+<p align="center">Lagos, Nigeria 🇳🇬 — Founder @ <strong>Cliverex</strong></p>
+<p align="center"><em>"Visibility is currency. We make your brand wealthy."</em></p>
 
-![Capsule Header](https://capsule-render.vercel.app/api?type=wave&color=29292b,0f172a,0b1220&height=160&section=header&text=Engineer%20•%20Freelance%20Web%20Developer%20%26%20Digital%20Entrepreneur&fontColor=ffffff&fontSize=46)
-
-# Engineer
-**Freelance Web Developer & Digital Entrepreneur**  
-Lagos, Nigeria 🇳🇬 — Founder @ Cliverex (Cliverex — digital growth studio)  
-"Visibility is currency. We make your brand wealthy." ✨
-
-<img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&duration=3000&pause=1000&color=ffffff&center=true&width=760&height=60&lines=Freelance%20Web%20Developer%20💻;Digital%20Entrepreneur%20🚀;Full-Stack%20Engineer%20⚡;Building%20from%20Lagos,%20Nigeria%20🇳🇬;Founder%20@%20Cliverex%20🏢" />
-
----
-
-## About Me
-- Role: Full-stack web apps, client projects, digital entrepreneurship 🔧  
-- Studio: Cliverex — find us on Instagram and X as [@cliverex_hq](https://instagram.com/cliverex_hq) / https://x.com/cliverex_hq  
-- Tagline: "Visibility is currency. We make your brand wealthy." 💡
-
-## Tech Stack & Tools
-- Stack: Next.js, React, Vite, Tailwind CSS, Convex, Supabase, Firebase, Cloudinary, Vercel  
-- Tools: VS Code, GitHub Copilot, Cline
-
----
-
-## GitHub Stats
-<div align="center">
-  <img alt="samsync-5004 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=samsync-5004&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img alt="samsync-5004 GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samsync-5004&theme=dark&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsync-5004&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
-## Skills
 <p align="center">
-  <img alt="skills" src="https://skillicons.dev/icons?i=nextjs,react,typescript,js,tailwindcss,supabase,firebase,cloudinary,vercel,git,vscode&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&width=760&height=60&lines=Freelance%20Web%20Developer%20%F0%9F%92%BB;Digital%20Entrepreneur%20%F0%9F%9A%80;Full-Stack%20Engineer%20%E2%9A%A1;Building%20from%20Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC;Founder%20%40%20Cliverex%20%F0%9F%8F%A2" alt="Typing SVG" />
 </p>
 
 ---
 
-## Let's Connect
+## 🛠️ Tech Stack
+
 <p align="center">
-  <a href="https://instagram.com/cliverex_hq" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@cliverex_hq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,supabase,firebase,vercel,git,vscode&theme=dark" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/cliverex_hq">
+    <img src="https://img.shields.io/badge/Instagram-@cliverex_hq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/cliverex_hq" target="_blank">
-    <img alt="X" src="https://img.shields.io/badge/X-@cliverex_hq-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  &nbsp;
+  <a href="https://x.com/cliverex_hq">
+    <img src="https://img.shields.io/badge/X-@cliverex_hq-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://github.com/samsync-5004" target="_blank">
-    <img alt="GitHub Follow" src="https://img.shields.io/github/followers/samsync-5004?label=Follow&style=social" />
+  &nbsp;
+  <a href="https://github.com/samsync-5004">
+    <img src="https://img.shields.io/github/followers/samsync-5004?label=Follow&style=social" />
   </a>
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=samsync-5004&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=samsync-5004&style=flat&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
 
-<p align="center">
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=wave&color=0b1220,0f172a,29292b&height=80&section=footer&text=&fontColor=ffffff" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0b1220,0f172a,29292b&height=80&section=footer)
